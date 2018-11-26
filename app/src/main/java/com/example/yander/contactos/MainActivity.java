@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
         button.setOnClickListener(this);
-        llamadas.setOnClickListener(this);
 
     }
 
